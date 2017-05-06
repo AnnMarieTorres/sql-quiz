@@ -1,5 +1,7 @@
 # SQL QUIZ
 
+*IMPORTANT*: Do not use MSSQL Server Management Studio to answer the coding questions.
+
 - What data would be contained in the left join of two tables?
 
 - What data would be contained in the right join of two tables?
@@ -30,7 +32,7 @@
 
 - If you are going to perform a series of transactions and you wish to undo the transactions if one fails, what functionality could you use to undo the changes?
 
-Use the following tables for the next questions:
+Use the following tables for the next questions and place all your answers in the *queries.sql* file in this folder:
 
 ### Customer Table:
 
